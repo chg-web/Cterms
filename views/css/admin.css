@@ -1,0 +1,13 @@
+.help-left {
+    border-right: 1px solid #25b9d7;
+}
+
+.help-right {
+    padding-left: 20px !important;
+    margin-top: 57px;
+}
+
+#logo_chg {
+    width: 300px;
+    margin-bottom: 15px;
+}
