@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Cterms - Modules Prestashop
  * 
@@ -6,7 +7,7 @@
  * @copyright Since 2010 CHG-WEB
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
  * 
- **/
+ * */
 global $_MODULE;
 $_MODULE['<{cterms}prestashop>cterms_c37b006e77ef0804334f7e48120aa105'] = 'Cterms';
 $_MODULE['<{cterms}prestashop>cterms_03cd2718e6390e69078fcc4d59c8df60'] = 'Ajout d\'une clause pour valider une commande';

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Cterms - Modules Prestashop
  * 
@@ -6,15 +7,14 @@
  * @copyright Since 2010 CHG-WEB
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
  * 
- **/
-if(!defined('_PS_VERSION_')) {
+ * */
+if (!defined('_PS_VERSION_')) {
     exit;
 }
-function upgrade_module_1_1_2($module)
-{
-    if($module) {
+
+function upgrade_module_1_1_2($module) {
+    if ($module) {
         return true;
     }
     return false;
 }
-
