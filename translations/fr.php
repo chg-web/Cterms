@@ -1,14 +1,12 @@
 <?php
-
 /**
  * Cterms - Modules Prestashop
- * 
  * @author    montuy337513 pour CHG-WEB <cm@chg-web.com>
  * @copyright Since 2010 CHG-WEB
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
- * 
- * */
+ */
 global $_MODULE;
+$_MODULE = [];
 $_MODULE['<{cterms}prestashop>cterms_c37b006e77ef0804334f7e48120aa105'] = 'Cterms';
 $_MODULE['<{cterms}prestashop>cterms_03cd2718e6390e69078fcc4d59c8df60'] = 'Ajout d\'une clause pour valider une commande';
 $_MODULE['<{cterms}prestashop>cterms_d6f47e627cb8b9186caa435aba1c32ae'] = 'Etes vous sûr de vouloir supprimer ce module ?';
